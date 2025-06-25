@@ -1,0 +1,37 @@
+.first {
+    border: 10px solid purple;
+}
+
+.row {
+    display: flex;
+}
+
+.second {
+    width: 50%;
+    border: 10px solid yellow;
+}
+
+.third {
+    width: 50%;
+    border: 10px solid blue;
+}
+
+.forth{
+    width: 50%;
+    border: 10px solid yellow;
+}
+
+.fifth{
+    width: 50%;
+    border: 10px solid blue;
+}
+
+.sixth{
+    width: 50%;
+    border: 10px solid yellow;
+}
+
+.seventh{
+    width: 50%;
+    border: 10px solid blue;
+}
